@@ -1,0 +1,1 @@
+from claim_ofx_license.script import run
